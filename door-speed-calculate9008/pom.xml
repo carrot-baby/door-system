@@ -35,8 +35,6 @@
                         </goals>
                     </execution>
                 </executions>
-<!--                ss-->
-                     //s
             </plugin>
         </plugins>
     </build>
