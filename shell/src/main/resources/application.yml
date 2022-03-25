@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: shell
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+#    sentinel:
+#      transport:
+#        dashboard: localhost:1230
+#        port: 8719

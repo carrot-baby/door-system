@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="door-energy-calculate9012" />
+        <module name="door-energy-calculate9010" />
+        <module name="door-energy-calculate9011" />
+        <module name="door-section-calculate9019" />
+        <module name="door-section-calculate9018" />
+        <module name="door-basic-parameter9016" />
+        <module name="door-speed-calculate9020" />
+        <module name="door-speed-calculate9021" />
+        <module name="door-energy-checkout9013" />
+        <module name="door-energy-checkout9014" />
+        <module name="door-energy-checkout9015" />
+        <module name="door-speed-calculate9007" />
+        <module name="door-basic-parameter9017" />
+        <module name="door-energy-calculate9023" />
+        <module name="door-speed-calculate9008" />
+        <module name="door-speed-calculate9009" />
+        <module name="door-section-calculate9005" />
+        <module name="door-section-calculate9004" />
+        <module name="door-energy-calculate9022" />
+        <module name="door-section-calculate9006" />
+        <module name="door-basic-parameter9003" />
+        <module name="door-basic-parameter9002" />
+        <module name="door-basic-parameter9001" />
+        <module name="shell" />
+        <module name="door-energy-checkout9024" />
+        <module name="door-energy-checkout9025" />
+        <module name="door-web8080" />
+        <module name="door-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
